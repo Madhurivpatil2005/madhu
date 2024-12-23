@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hi
+=======
+<<<<<<< HEAD
+how
+=======
+hello
+>>>>>>> 4bd65531944175940ee085d16deecfbf57bb40e2
+>>>>>>> a8b6bfa7dd8daa64cebe53726eec3a267541b9c8
